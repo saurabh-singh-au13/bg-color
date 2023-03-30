@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    height: 50vh;
+    width: 100%;
+
+}
+li{
+    outline: none;
+    list-style-type: none;
+    margin-bottom: 20px;
+
+
+}
+p{
+    color: red;
+    font-weight: 600;
+    font-size: medium;
+}
